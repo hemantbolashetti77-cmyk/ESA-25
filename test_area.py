@@ -1,5 +1,5 @@
 import math
-from app import calculate_area, calculate_circumference
+from area import calculate_area, calculate_circumference
 
 def test_circle_calculation():
     radius = 1
